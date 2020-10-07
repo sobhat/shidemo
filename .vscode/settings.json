@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/eaa547be-a1af-40d0-806b-94edc8351328/resourceGroups/shidemo-rg/providers/Microsoft.Web/sites/shidemo",
+    "appService.deploySubpath": "."
+}
